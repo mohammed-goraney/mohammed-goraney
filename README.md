@@ -30,7 +30,7 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-gorany-8622a9211" target="_blank">
+  <a href="www.linkedin.com/in/mohammed-abdalla-it" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
