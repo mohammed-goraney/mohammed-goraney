@@ -38,40 +38,38 @@
 
 <!-- ═══════════ CERTIFICATIONS ═══════════ -->
 ## 🏅 Certifications & Roadmap
-
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" height="50"/><br>
-      <strong>Cisco CCNA</strong><br>
-      <img src="https://img.shields.io/badge/✅-Completed-3fb950?style=flat-square"/>
+    <td align="center" width="200">
+      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" height="45"/><br>
+      <b>Cisco CCNA</b><br>
+      <img src="https://img.shields.io/badge/✅-Completed-3fb950?style=flat-square&labelColor=0d1117"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" height="50"/><br>
-      <strong>CCNP ENCOR 350-401</strong><br>
-      <img src="https://img.shields.io/badge/🔄-In_Progress-f0883e?style=flat-square"/>
+    <td align="center" width="200">
+      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" height="45"/><br>
+      <b>CCNP ENCOR 350-401</b><br>
+      <img src="https://img.shields.io/badge/🔄-In_Progress-f0883e?style=flat-square&labelColor=0d1117"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="50"/><br>
-      <strong>Azure AZ-900</strong><br>
-      <img src="https://img.shields.io/badge/🔄-In_Progress-f0883e?style=flat-square"/>
+    <td align="center" width="200">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="45"/><br>
+      <b>Azure AZ-900</b><br>
+      <img src="https://img.shields.io/badge/🔄-In_Progress-f0883e?style=flat-square&labelColor=0d1117"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="50"/><br>
-      <strong>Azure AZ-104</strong><br>
-      <img src="https://img.shields.io/badge/🔄-In_Progress-f0883e?style=flat-square"/>
+    <td align="center" width="200">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="45"/><br>
+      <b>Azure AZ-104</b><br>
+      <img src="https://img.shields.io/badge/🔄-In_Progress-f0883e?style=flat-square&labelColor=0d1117"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://www.vectorlogo.zone/logos/fortinet/fortinet-ar21.svg" height="50"/><br>
-      <strong>Fortinet NSE4</strong><br>
-      <img src="https://img.shields.io/badge/🔄-In_Progress-f0883e?style=flat-square"/>
+    <td align="center" width="200">
+      <img src="https://www.vectorlogo.zone/logos/fortinet/fortinet-ar21.svg" height="45"/><br>
+      <b>Fortinet NSE4</b><br>
+      <img src="https://img.shields.io/badge/🔄-In_Progress-f0883e?style=flat-square&labelColor=0d1117"/>
     </td>
-    <td align="center" width="33%">
-      <br>
-      <strong>More coming...</strong><br>
-      <img src="https://img.shields.io/badge/🔥-Stay_Tuned-58a6ff?style=flat-square"/>
+    <td align="center" width="200">
+      <br><b>More coming...</b><br>
+      <img src="https://img.shields.io/badge/🔥-Stay_Tuned-58a6ff?style=flat-square&labelColor=0d1117"/>
     </td>
   </tr>
 </table>
@@ -80,24 +78,19 @@
 
 <!-- ═══════════ TOOLS ═══════════ -->
 ## 🛠️ Tools & Technologies
-
 <p align="center">
   <a href="https://www.cisco.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" height="45"/>
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="45"/>
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://www.fortinet.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/fortinet/fortinet-ar21.svg" height="45"/>
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45"/>
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
   </a>
@@ -123,15 +116,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammed-goraney&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-goraney&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-goraney&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammed-goraney&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-goraney&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-goraney&theme=tokyo-night&hide_border=true&area=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-goraney&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<!-- Activity Graph Full Width -->
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-goraney&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117"/>
 </p>
 
 ---
